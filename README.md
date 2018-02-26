@@ -18,7 +18,7 @@ $ bower install
 
 Запустить сервер: 
 
-[$ npm start]
+$ npm start
 
 Приложение будет доступно по ссылке:
 http://localhost:8000/index.html.
